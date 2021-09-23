@@ -8,4 +8,4 @@ My name is Zachary Kurtz. I am a junior at the Horace Mann School in New York, N
 
 ### My story
 
-It is not necessarult the most relevant thing to the person reading this website.
+It is not necessarily the most relevant thing to the person reading this website.
