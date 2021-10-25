@@ -14,7 +14,7 @@ author: Zachary Kurtz
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "I am a junior at The Horace Mann School in New York, NY."
+  About Me: "aboutme"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
