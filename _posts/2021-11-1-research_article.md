@@ -1,11 +1,12 @@
 ---
 layout: post
-title: Digimon Code
-subtitle: How I developed the code to answer the questions posed in the digimon lab
-cover-img: /assets/img/digimon.jpeg
-thumbnail-img: /assets/img/digimonicon.webp
+title: Research Meta Analysis
+subtitle: Developing my understanding of how to critically examine
+scientific studies and analyze datasets
+cover-img: /assets/img/HumanMadeMass2.jpeg
+thumbnail-img: /assets/img/HumanMadeMass.jpeg
 share-img: /assets/img/path.jpg
-tags: [code, explanation]
+tags: [data analysis, research]
 ---
 
 # My Digimon Code
