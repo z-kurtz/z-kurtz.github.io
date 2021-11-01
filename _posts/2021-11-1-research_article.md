@@ -2,7 +2,7 @@
 layout: post
 title: Research Meta Analysis
 subtitle: Developing my understanding of how to critically examine scientific studies and analyze datasets
-cover-img: /assets/img/HumanMadeMass2.jpeg
+cover-img: /assets/img/HumanMadeMass3
 thumbnail-img: /assets/img/HumanMadeMass.jpeg
 share-img: /assets/img/path.jpg
 tags: [data analysis, research]
