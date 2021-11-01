@@ -9,17 +9,17 @@ tags: [data analysis, research]
 ---
 
 The study that I analyzed for this blog post can be found [here](https://www.nature.com/articles/s41586-020-3010-5).
-# Questions and answers about the scientific student
+
+# Questions and answers about the observational study
  
 1. What are the null and alternative hypotheses?
-	* The null hyposthesis is that 
-	* The alternative hypothsis is that
-	
+	* Due to the fact that this is an observational study, there is no hypothesis. The study is not collecting data but compiling data that has already been collected and analyzing it. This analysis comes to a conclusion but does not prove a hypothesis.
+
 2. Who is collecting and analyzing this data?
-	* The data was collected and analyzed by a team of researchers from the Department of Plant and Environmental Sciences, Weizmann Institute of Science, Rehovot, Israel. Their research was supported by European Research Council as well as a variety of other organizations. Some data was also collected from references and was used to help analyze the data collected. They also state in the Contributions section that Emily Elhacham performed the bulk of the research and data analysis and tell us what the roles of the other researchers were.
+	* The data was collected and analyzed by a team of researchers from the Department of Plant and Environmental Sciences, Weizmann Institute of Science, Rehovot, Israel. Their research was supported by European Research Council as well as a variety of other organizations. Their data was collected from references and was then analyzed. They also state in the Contributions section that Emily Elhacham performed the bulk of the research and data analysis and tell us what the roles of the other researchers were.
 
 3. What datasets does this study reference or use? Are these datasets available to the public?
-	* This study uses a variety of datasets inluding a collected dataset, an Anthropogenic mass dataset from a reference, a dataset called TRENDY Dynamic Global Vegetation Models outputs, a dataset called Leaves dry matter content measurements, and they issued a statement that "other datasets used in this study are available from the published literature, as detailed in the Methods and Supplementary Information." All of the data used in the study is available on GitHub. It can also be implied that anything not avaiable on GitHub is avaiable in other studies.
+	* This study uses a variety of datasets inluding an Anthropogenic mass dataset from a reference, a dataset called TRENDY Dynamic Global Vegetation Models outputs, a dataset called Leaves dry matter content measurements, and they issued a statement that "other datasets used in this study are available from the published literature, as detailed in the Methods and Supplementary Information." All of the data used in the study is available on GitHub. It can also be implied that anything not avaiable on GitHub is avaiable in other studies.
 
 4. Why are they interested in this data?
 	* They are interested in this data because they believe that Earth is at a crossover point when the anthropogenic mass will surpass all global living biomass. The data collected and analyzed helps us understand how this happened and what it means.
@@ -35,3 +35,7 @@ The study that I analyzed for this blog post can be found [here](https://www.nat
 
 8. Do you think publish or perish had an effect on this study?
 	* There is definately a chance that publish or perish had an effect on this study, but at the same time there is no evidence to suggest that it did. The number of organizations funding the research also suggests that this reseacrh was well funded and that these researchers are also well funded lowering the likelihood that publish or perish had an effect on this research being published.
+
+# What questions should we ask about the observational study?
+
+I found it incredibly difficult to figure out that this was an observational study and not a scientific study which made me realize that there are some questions that need to be asked. Firstly, why did this study need so much funding if it was all data that had already been collected? I was also wondering why it was so hard to figure out that this was an observational study?
