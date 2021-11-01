@@ -8,7 +8,7 @@ share-img: /assets/img/path.jpg
 tags: [data analysis, research]
 ---
 
-The study that I analyzed for this blog post can be found [here][https://www.nature.com/articles/s41586-020-3010-5]
+The study that I analyzed for this blog post can be found [here](https://www.nature.com/articles/s41586-020-3010-5).
 # Questions and answers about the scientific student
  
 1. What are the null and alternative hypotheses?
