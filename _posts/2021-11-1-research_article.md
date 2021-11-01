@@ -36,6 +36,6 @@ The study that I analyzed for this blog post can be found [here](https://www.nat
 8. Do you think publish or perish had an effect on this study?
 	* There is definately a chance that publish or perish had an effect on this study, but at the same time there is no evidence to suggest that it did. The number of organizations funding the research also suggests that this reseacrh was well funded and that these researchers are also well funded lowering the likelihood that publish or perish had an effect on this research being published.
 
-### What questions should we ask about the observational study?
+## What questions should we ask about the observational study?
 
 I found it incredibly difficult to figure out that this was an observational study and not a scientific study which made me realize that there are some questions that need to be asked. Firstly, why did this study need so much funding if it was all data that had already been collected? I was also wondering why it was so hard to figure out that this was an observational study?
