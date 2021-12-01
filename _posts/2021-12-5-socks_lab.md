@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Digimon Code
-subtitle: How I developed the code to answer the questions posed in the digimon lab
-cover-img: /assets/img/digimon.jpeg
-thumbnail-img: /assets/img/digimonicon.webp
+title: Socks Code
+subtitle: How I developed the code to answer the questions posed in the socks lab
+cover-img: /assets/img/Socks
+thumbnail-img: /assets/img/Sock1.png
 share-img: /assets/img/path.jpg
 tags: [code, explanation]
 ---
@@ -11,20 +11,14 @@ tags: [code, explanation]
 # My Socks Code
 
 The Digimon Lab presented the following 2 tasks to be completed:
-1. Use the API to abtain the dataset
+1. Use the API to obtain the dataset
 2. Answer the following questions about the dataset:
-    1. Which sock has the most variations?
-    2. How many socks of each color are there?
+    * Which sock has the most variations?
+    * How many socks of each color are there?
 
-the following three questions to be answered about the csv file digimon: 
-1. What is the average speed (Spd) of all Digimon? 
-2. Write a function that can count the number of Digimon with a specific attribute. 
-3. The Digimon on your team are restricted by the total amount of Memory that they need. If your team only has 15 Memory, name a team of up to 3 Digimon that has at least 300 attack (Atk) in total.
+In this blog post I am going to walk through the methods I used to accomplish the two tasks presented. So, the best place to start is with the first task.
 
-In this blog post I am going to walk therough the methods I used to answer the questions that there three tasks are asking. So, the best place to start is with the first question.
-
-
-### The set up
+### Using the API to obtain the dataset
 First to answer any of these questions we have to have the ability to iterate through the csv. To do this we import the csv module and open the csv. I then set up a list called data which contains all of the values in the csv. Opening the csv as a list allows for us to iterate through the csv as many times as we want.
 
 ```
