@@ -2,8 +2,8 @@
 layout: post
 title: Socks Code
 subtitle: How I developed the code to answer the questions posed in the socks lab
-cover-img: /assets/img/Socks
-thumbnail-img: /assets/img/Sock1.png
+cover-img: /assets/img/Socks.jpg
+thumbnail-img: /assets/img/Sock1.jpg
 share-img: /assets/img/path.jpg
 tags: [code, explanation]
 ---
